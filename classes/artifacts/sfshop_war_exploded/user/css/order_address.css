@@ -1,0 +1,41 @@
+   * {
+	    padding: 0;
+	    margin: 0;
+	    list-style: none;
+	    font-weight: normal;
+	}
+	.glyphicon{
+		color: #1296DB;
+	}
+    body {
+        background: #f8f3f3;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color:#000;
+        margin: 0;
+        padding: 0;
+    }
+    .pm0{
+    	padding: 0px;
+    }
+	.addr{
+		height: 80px;
+		font-size: 12px;
+		background: #fff url(../img/interval.png) no-repeat 100% 100%;
+		background-size:100% 5px;
+		/*background: url(../img/interval.png) no-repeat 100% 100%;
+		*/
+	}
+	.addr_count div{
+		line-height: 35px;
+	}
+	.dib{
+		position: fixed;
+		background-color: #1296DB;
+		padding: 15px;
+		width: 100%;
+		text-align: center;
+		color: #fff;
+		font-size: 1.2em;
+		bottom: 0;
+	}

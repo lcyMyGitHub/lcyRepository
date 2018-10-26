@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-weight: normal;
+}
+.glyphicon{
+	color: #00A0EA;
+}
+
+body{
+  background-color: #f8f3f3;
+}
+.rm-title{
+	font-size:0.9em;
+	padding-left: 0px;
+	
+}
+.countsecond{
+	font-size:0.8em;
+	padding:5px 0px;
+	color: #ccc;
+	border-bottom: 1px solid #ccc;
+}
+.marg{
+	margin-top: 5px;
+	background-color: #fff;
+}

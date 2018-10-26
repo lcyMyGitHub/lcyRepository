@@ -1,0 +1,207 @@
+ html, body {
+        position: relative;
+        height: 100%;
+    }
+    body {
+        background: #f8f3f3;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color:#000;
+        margin: 0;
+        padding: 0;
+    }
+    .swiper-container {
+        width: 100%;
+        height: 230px;
+    }
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+    }
+
+.glyphicon{
+	color: #1296DB;
+	
+}
+.fh{
+	font-size: 25px;
+	top: 10px;
+	left:10px;
+	z-index: 1001;
+	position: absolute;
+	opacity:.7;
+}
+.ui-link{
+	padding-right: 0px;
+}
+.title_name{
+	padding-left: 0px;
+}
+.title_goods{
+	background-color: #fff;
+}
+.title_goods{
+	font-size: 1.2em;
+	line-height: 1.5em;
+	word-wrap:break-word;
+}
+.title_price{
+	background-color: #fff;
+	font-size: 1em;
+	color: #ff6347;
+	padding-top:10px;
+}
+.title_price span
+{
+	font-size: 1.2em;
+	
+}
+.rm-jiage-xian{
+	font-size: 16px;
+	text-decoration: underline;
+	color: #cdcdcd;
+	
+}
+.title_jies{
+	padding: 5px 0px;
+	background-color: #fff;
+	font-size: 12px;
+	color: #cdcdcd;
+}
+.title_icon{
+	background-color: #f2f0f0;
+	font-size: 12px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+.title_icon img{
+	max-width: 15%;
+	vertical-align: bottom;
+}
+.title_icon div{
+	padding: 0px;
+}
+.title_guige{
+	padding: 10px 0px;
+	background-color: #fff;
+	font-size: 12px;
+}
+.title_guige div{
+	padding: 0px;
+}
+.title_guige div span{
+	top: 0px;
+	font-size: 15px;
+}
+.title_xq{
+	margin-top: 2px;
+	font-size: 0.9em;
+	padding-left: 0px;
+	background-color: #fff;
+}
+.title_xq div{
+	width:auto;
+	box-sizing: border-box;
+	padding: 5px 0px;
+	border-bottom: 3px solid #1296DB;
+}
+.title_xq img{
+	vertical-align: middle;
+	max-height: 20px;
+}
+.xq{
+	padding: 0px;
+}
+.xq img{
+	max-width: 100%;
+}
+.div1{
+	background-color: #fff;
+}
+.guige_jiage{
+	font-size: 18px;
+	color: #ff6347;
+	padding: 10px 0px 10px 0px;
+}
+.guige_jiage_kc{
+	padding: 10px 0px;
+	
+}
+.guige_jiage_1{
+	font-size: 16px;
+	text-decoration: line-through;
+	color: #cdcdcd;
+	padding: 10px 0px;
+}
+.guige_jiage_title{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #fff;
+}
+.container{
+	padding: 10px;
+	font-size: 12px;
+	background-color: #fff;
+	
+}
+.class_goods{
+	padding: 5px;
+	margin: 5px;
+	border: 1px dashed #1296DB;
+	display: inline-block;
+	border-radius: 5px;
+}
+.class_goods_xuanzhong{
+	background-color: #1296DB;
+	border: 1px dashed #1296DB;
+	color:#fff;
+	padding: 5px;
+	margin: 5px;
+	display: inline-block;
+	border-radius: 5px;
+}
+
+
+.dibu{
+	background-color: #1296DB;
+	color: #fff;
+	font-size: 1.2em;
+	padding: 15px 0px 15px 0px;
+}
+.goumai{
+	width: 85px;
+	height: 85px;
+	background-color: #1296DB;
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	border-radius: 100% 0px 0px 0px;
+	opacity: .8;
+	
+}
+.divgoumai{
+	margin: 0px auto;
+	transform: rotate(45deg);
+	width: 20px;
+	text-align: center;
+	font-size: 1em;
+	height: 100px;
+	color: #fff;
+	word-wrap:break-word;
+}

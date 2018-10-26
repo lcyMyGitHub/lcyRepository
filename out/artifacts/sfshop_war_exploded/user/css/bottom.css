@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-weight: normal;
+}
+
+  	.nav{
+  		position: fixed;
+  		bottom: 0px;
+  		background-color: #fff;
+  		width: 100%;
+  		z-index: 100;
+  	}
+  	.nav ul{
+  		list-style: none;
+  		height: 0px;
+  	}
+  	.nav ul li{
+  		float: left;
+  		text-align: center;
+  		width: 33%;
+  		padding: 5px 0px 5px 0px;
+  		
+  	}
+  	.nav ul li span {
+    display: block;
+    font-size: 12px;
+    font-family: "微软雅黑";
+    line-height: 22px;
+}
+.nav ul li a {
+    color: #707070;
+    text-decoration: none;
+}
+.nav ul li a:HOVER {
+    text-decoration: none;
+}
+.fontSelected{
+	 color: #000;
+}
+.font{
+	 color: #888;
+}

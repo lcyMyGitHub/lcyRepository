@@ -1,0 +1,93 @@
+   * {
+	    padding: 0;
+	    margin: 0;
+	    list-style: none;
+	    font-weight: normal;
+	}
+	.glyphicon{
+		color: #1296DB;
+	}
+	
+    body {
+        background: #f8f3f3;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color:#000;
+        margin: 0;
+        padding: 0;
+    }
+    .username{
+    	margin-top: 60px;
+    }
+    .username input{
+    	border: 0px;
+    	width: 100%;
+    	padding: 10px;
+    	border-radius: 5px;
+    	background-color: #fff;
+    }
+     .phone{
+    	margin-top: 10px;
+    }
+     .phone input{
+    	border: 0px;
+    	width: 100%;
+    	padding: 10px;
+    	padding-left: 40px;
+    	border-radius: 5px;
+    	background:#fff url(../img/86.png) no-repeat 5px;
+    	background-size: 30px;
+    }
+    .phone_val{
+    	margin-top: 10px;
+    }.phone_val input{
+    	border: 0px;
+    	width: 100%;
+    	padding: 10px;
+    	border-radius: 5px;
+    	background-color: #fff;
+    }
+    .phone_btn{
+    	padding-left: 0px;
+    	margin-top: 10px;
+    }
+    .phone_btn button{
+    	background-color: #1296DB;
+    	border: 0px;
+    	color: #fff;
+    	border-radius: 5px;
+    	padding: 10px;
+    	width: 100%;
+    }
+    .password{
+    	margin-top: 10px;
+    }
+    .password input{
+    	border: 0px;
+    	width: 100%;
+    	padding: 10px;
+    	border-radius: 5px;
+    	background-color: #fff;
+    }
+    .register_btn{
+    	margin-top:10px;
+    }
+    .register_btn button{
+    	background-color: #1296DB;
+    	border: 0px;
+    	color: #fff;
+    	border-radius: 5px;
+    	padding: 15px;
+    	width: 100%;
+    }
+    .xieyi{
+    	margin-top: 10px;
+    }
+    .xieyi input
+    {
+    	vertical-align: middle;
+    }
+    a{
+    	font-size: 12px;
+    	line-height: 14px;
+	}

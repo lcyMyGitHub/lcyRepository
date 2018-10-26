@@ -1,0 +1,36 @@
+*{padding: 0px;margin: 0px;}
+.glyphicon{
+		color: #1296DB;
+	}
+    body {
+        background: #f8f3f3;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        color:#000;
+        margin: 0;
+        padding: 0;
+    }
+   .gonggao{
+      margin-top: 51px;
+      background-color: #fff;
+      padding: 10px;
+    }
+   .imgs{
+   	 padding: 0px;
+   }
+   .imgs img{
+   	 max-width: 80%;
+   }
+   .countdiv{
+   	height: 55px;
+   	background-color: #fff;
+   	margin-top: 1px;
+   	padding: 10px 0px;
+   }
+   .span1{
+   	padding: 0px;
+   	color: red;
+   	font-size: 1.5em;
+   }
+   .countnr{
+	padding: 0px;
+   }
