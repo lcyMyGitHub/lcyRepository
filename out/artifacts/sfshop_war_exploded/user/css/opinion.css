@@ -1,0 +1,31 @@
+*{padding: 0px;margin: 0px;}
+.glyphicon{
+		color: #1296DB;
+	}
+    body {
+        background: #fff;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        color:#000;
+        margin: 0;
+        padding: 0;
+    }
+ .div_textarea{
+ 	margin-top: 55px;
+ }
+ .div_textarea textarea{
+ 	height: 200px;
+ 	width: 100%;
+ 	border: 0;
+ 	outline:none;
+ 	resize:none;
+ }  
+ .btn1{
+ 	position: fixed;
+	bottom: 0px;
+ 	padding: 12px 0px;
+ 	background-color: #1296DB;
+ 	color: #fff;
+ 	font-size: 1.2em;
+ 	text-align: center;
+ 	letter-spacing:5px;
+ }

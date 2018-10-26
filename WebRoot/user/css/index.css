@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-weight: normal;
+}
+.glyphicon{
+	color: #00A0EA;
+}
+
+body{
+  background-color: #f8f3f3;
+}
+.menus{
+	margin: 0px auto;
+	width: 93%;
+	height:80px;
+	margin-top: 10px;
+}
+.menu1{
+	width: 49%;
+	float: left;
+	box-sizing: border-box;
+	padding: 8px;
+	background-color: #fff;
+	box-shadow:0 2px 2px #ccc;
+	
+}
+.menu2{
+	width: 49%;
+	float: left;
+	margin-left: 2%;
+	padding: 8px;
+	background-color: #fff;
+	box-shadow:0 2px 2px #ccc;
+	
+}
+.menus_img{
+	max-width: 35%;
+	float: left;
+	
+}
+.menus_title{
+	width: 60%;
+	float: left;
+	text-align: right;
+	color: #8B8378;
+	padding-top: 5%;
+	
+}
+.menus_title_abc{
+	font-size: 0.7em;
+}
+.rm-title{
+	font-size:0.9em;
+	padding-left: 0px;
+	
+}
+.rm-goods-img{
+	max-width: 100%;
+	max-height: 100%;
+	min-width: 100%;
+	min-height: 100%;
+}
+.rm-title1{
+	box-sizing: border-box;
+	font-size:0.9em;
+	line-height: 20px;
+	height: 40px;
+	}
+.marg{
+	margin:  0px 0.5em;
+	border-bottom: 1px solid #ccc;
+}
+.rm-cont{
+	padding: 5px 5px 5px 0px;
+	height: 100px;
+}
+.bg-rm{
+	background-color: #fff;
+	height: 100px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.rm-bottom{
+	text-align: right;
+	line-height: 30px;
+}
+.rm-xiao{
+	font-size: 12px;
+	text-align: right;
+	color: #8F8F8F;
+	line-height: 20px;
+}
+.rm-jiage-xian{
+	font-size: 14px;
+	text-decoration: line-through;
+	color: #8F8F8F;
+}
+.rm-jiage{
+	color: #FF6347;
+	font-size:16px;
+	
+}
